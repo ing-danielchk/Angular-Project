@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'EstelarExpress';
+
+  logme(){
+    console.log('testing')
+  }
 }
